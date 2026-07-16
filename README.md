@@ -2,11 +2,21 @@
 
 # Hi 👋, I'm Aswathy Santhosh
 
-### AI Engineer in Progress • Backend Developer • B.Tech CSE (Artificial Intelligence)
+### Transforming ideas into intelligent software.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=AI+Developer;Backend+Developer;FastAPI+%7C+Python;Machine+Learning+Enthusiast;Building+Real-World+AI+Applications"/>
+**Python • FastAPI • Django • Machine Learning • Backend Development**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress;Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New"/>
 
 </div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Aswathy486&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Aswathy486?label=Followers&style=flat" />
+<img src="https://img.shields.io/github/stars/Aswathy486?affiliations=OWNER&style=flat" />
+</p>
 
 ---
 
@@ -16,17 +26,17 @@
 
 🏫 **St. Joseph College of Engineering, Palai**
 
-📍 Kerala, India
+📍 **Kerala, India**
 
-I'm passionate about building intelligent software that solves real-world problems through AI, automation, and backend development. I enjoy transforming ideas into practical applications using Python, FastAPI, and modern development tools.
+I'm passionate about building intelligent software that solves real-world problems using AI, backend technologies, and automation. I enjoy transforming ideas into practical applications with Python, FastAPI, Django, and modern development tools.
 
 ### 🌱 Currently Learning
 
-- AI Agents
-- Machine Learning
-- Backend Development
-- Automation with n8n
-- UI/UX Design with Figma
+- 🤖 AI Agents
+- 🧠 Machine Learning
+- ⚙️ Backend Development
+- 🔄 Workflow Automation with n8n
+- 🎨 UI/UX Design with Figma
 
 ---
 
@@ -46,32 +56,37 @@ I'm passionate about building intelligent software that solves real-world proble
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
 
-### 🎨 Design & Automation
+### 🎨 Design
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
+
+### 🔄 Automation
+
+<p>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-### 🛠 Tools
+### 🛠 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windsurf" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -82,9 +97,10 @@ I'm passionate about building intelligent software that solves real-world proble
 
 An AI-powered skincare and haircare management platform featuring intelligent recommendations, a unified admin dashboard, batch CSV ingestion with Pandas, and personalized routines.
 
-**Tech Stack:** Django • Python • Pandas • SQLite
+**Tech Stack:** `Django` • `Python` • `Pandas` • `SQLite`
 
-🔗 https://github.com/Aswathy486/EVORA
+🔗 **Repository:**  
+https://github.com/Aswathy486/EVORA
 
 ---
 
@@ -92,9 +108,10 @@ An AI-powered skincare and haircare management platform featuring intelligent re
 
 A movie discovery platform designed to provide an engaging browsing experience with a clean interface and efficient backend functionality.
 
-**Tech Stack:** Python • Django • SQLite
+**Tech Stack:** `Django` • `Python` • `SQLite`
 
-🔗 https://github.com/Aswathy486/CineCraVe
+🔗 **Repository:**  
+https://github.com/Aswathy486/CineCraVe
 
 ---
 
@@ -102,7 +119,7 @@ A movie discovery platform designed to provide an engaging browsing experience w
 
 Aggregates learning resources from multiple sources and generates personalized AI learning roadmaps.
 
-**Tech Stack:** Python • FastAPI • APIs
+**Tech Stack:** `Python` • `FastAPI` • `REST APIs`
 
 ---
 
@@ -110,40 +127,37 @@ Aggregates learning resources from multiple sources and generates personalized A
 
 An AI-powered chatbot built using FastAPI and Groq API for intelligent conversational assistance.
 
-**Tech Stack:** FastAPI • Python • Groq API
+**Tech Stack:** `FastAPI` • `Python` • `Groq API`
 
-🔗 https://github.com/Aswathy486/fastapi-ai-chatbot-task
+🔗 **Repository:**  
+https://github.com/Aswathy486/fastapi-ai-chatbot-task
 
 ---
 
 ## 📋 FastAPI Todo API
 
-A RESTful CRUD API demonstrating clean architecture, validation, and API documentation.
+A RESTful CRUD API demonstrating clean architecture, request validation, API key authentication, rate limiting, and interactive API documentation.
 
-**Tech Stack:** FastAPI • Python • Pydantic
+**Tech Stack:** `FastAPI` • `Python` • `Pydantic`
 
-🔗https://github.com/Aswathy486/fastapi-rate-limting
+🔗 **Repository:**  
+https://github.com/Aswathy486/fastapi-rate-limting
 
 ---
 
 # 🏆 Experience & Achievements
 
+🏅 **IBM SkillsBuild – Data Analytics**
 
-🏅 IBM SkillsBuild – Data Analytics
+Completed hands-on projects involving data analysis, Power BI, Excel, SQL, and business dashboards.
 
-🏅 Python Full Stack Web Development Internship
+🏅 **Python Full Stack Web Development Internship**
+
+Built backend applications using Python, FastAPI, REST APIs, and modern software development practices.
 
 ---
 
 # 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aswathy486&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathy486&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -165,14 +179,18 @@ A RESTful CRUD API demonstrating clean architecture, validation, and API documen
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://linkedin.com/in/aswathy-santhosh-9932a5328">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:aswathysanthosh949@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
@@ -181,12 +199,16 @@ A RESTful CRUD API demonstrating clean architecture, validation, and API documen
 
 # 💭 Quote
 
-> *"Learning never exhausts the mind; building turns knowledge into impact."*
+> *"Learning never exhausts the mind; building transforms knowledge into impact."*
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Aswathy486&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Aswathy486&style=for-the-badge&color=blueviolet)
+
+### ⭐ Thanks for visiting my profile!
+
+*Feel free to connect, collaborate, or explore my repositories.*
 
 </div>
