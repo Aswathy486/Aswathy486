@@ -24,7 +24,7 @@
 
 🎓 **B.Tech Computer Science & Engineering (Artificial Intelligence)**
 
-🏫 **St. Joseph College of Engineering, Palai**
+🏫 **St. Joseph College of Engineering and Technology, Palai**
 
 📍 **Kerala, India**
 
