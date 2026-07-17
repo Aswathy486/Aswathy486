@@ -108,7 +108,7 @@ https://github.com/Aswathy486/EVORA
 
 A movie discovery platform designed to provide an engaging browsing experience with a clean interface and efficient backend functionality.
 
-**Tech Stack:** `Django` • `Python` • `SQLite`
+**Tech Stack:** `Java` • `MySQL`
 
 🔗 **Repository:**  
 https://github.com/Aswathy486/CineCraVe
