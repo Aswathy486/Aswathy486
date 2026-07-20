@@ -4,11 +4,11 @@
 
 ### Transforming ideas into intelligent software.
 
-**Python • FastAPI • Django • Machine Learning • Backend Development**
+**Python • FastAPI • Django • Machine Learning • AI Applications • Backend Development**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress;Backend+Developer;Machine+Learning+Enthusiast;Building+AI-Powered+Applications;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer+in+Progress;Backend+Developer;Building+AI-Powered+Applications;Exploring+AI+Agents+%26+Automation;Always+Learning+Something+New"/>
 
 </div>
 
@@ -28,11 +28,13 @@
 
 📍 **Kerala, India**
 
-I'm passionate about building intelligent software that solves real-world problems using AI, backend technologies, and automation. I enjoy transforming ideas into practical applications with Python, FastAPI, Django, and modern development tools.
+I'm passionate about building intelligent software that combines **AI, backend engineering, and automation** to solve real-world problems.
+
+I enjoy turning ideas into practical applications using **Python, FastAPI, Django, machine learning, APIs, and modern development tools** while continuously exploring new technologies in AI engineering.
 
 ### 🌱 Currently Learning
 
-- 🤖 AI Agents
+- 🤖 AI Agents & Agentic Workflows
 - 🧠 Machine Learning
 - ⚙️ Backend Development
 - 🔄 Workflow Automation with n8n
@@ -42,11 +44,11 @@ I'm passionate about building intelligent software that solves real-world proble
 
 # 🚀 Current Focus
 
-- 🤖 AI Applications
-- ⚡ FastAPI Development
-- 🧠 Machine Learning
+- 🤖 AI-Powered Applications
+- 🧠 AI Agents
+- ⚡ FastAPI & Backend Development
 - 🔄 Workflow Automation
-- 📊 Data Analytics
+- 📊 Machine Learning & Data Analytics
 - 🌍 Open Source
 
 ---
@@ -65,16 +67,16 @@ I'm passionate about building intelligent software that solves real-world proble
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django"/>
 </p>
 
+### 🎨 Frontend & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,figma"/>
+</p>
+
 ### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
-
-### 🎨 Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
 </p>
 
 ### 🔄 Automation
@@ -83,15 +85,42 @@ I'm passionate about building intelligent software that solves real-world proble
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-### 🛠 Development Tools
+### 🛠 Development & Deployment Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
+
+## 📄 AI Resume Reviewer
+
+A full-stack AI-powered resume analysis platform that evaluates resumes for a selected target role and provides actionable insights to help users improve their applications.
+
+### ✨ Key Features
+
+- 📊 ATS-inspired resume score and detailed breakdown
+- 🔍 Matched and missing keyword analysis
+- 🤖 AI-generated strengths and areas for improvement
+- ✍️ AI-rewritten resume bullet points
+- 💌 Personalized cover letter generation
+- 📥 Downloadable PDF analysis report
+- 🎯 Role-specific resume analysis
+- 🎨 Modern responsive multi-page interface
+
+**Tech Stack:** `React` • `FastAPI` • `Python` • `Groq LLM` • `REST API` • `PDF Processing`
+
+**Deployment:** `Vercel` • `Render`
+
+🔗 **Repository:**  
+https://github.com/Aswathy486/ai-resume-reviewer
+
+🌐 **Live Application:**  
+https://ai-resume-reviewer-liard.vercel.app/
+
+---
 
 ## 🌿 EVORA
 
@@ -117,15 +146,15 @@ https://github.com/Aswathy486/CineCraVe
 
 ## 🤖 AI Study Resource Aggregator
 
-Aggregates learning resources from multiple sources and generates personalized AI learning roadmaps.
+A Python application that aggregates educational resources from multiple APIs and uses AI to generate personalized learning roadmaps based on a user's chosen topic.
 
-**Tech Stack:** `Python` • `FastAPI` • `REST APIs`
+**Tech Stack:** `Python` • `REST APIs` • `LLM Integration`
 
 ---
 
 ## 💬 AI Chatbot
 
-An AI-powered chatbot built using FastAPI and Groq API for intelligent conversational assistance.
+An AI-powered conversational application with a FastAPI backend and Groq LLM integration for intelligent real-time responses.
 
 **Tech Stack:** `FastAPI` • `Python` • `Groq API`
 
@@ -136,7 +165,7 @@ https://github.com/Aswathy486/fastapi-ai-chatbot-task
 
 ## 📋 FastAPI Todo API
 
-A RESTful CRUD API demonstrating clean architecture, request validation, API key authentication, rate limiting, and interactive API documentation.
+A RESTful backend API demonstrating CRUD operations, request validation, API key authentication, rate limiting, and interactive API documentation.
 
 **Tech Stack:** `FastAPI` • `Python` • `Pydantic`
 
@@ -147,13 +176,13 @@ https://github.com/Aswathy486/fastapi-rate-limting
 
 # 🏆 Experience & Achievements
 
-🏅 **IBM SkillsBuild – Data Analytics**
+### 🏅 IBM SkillsBuild – Data Analytics
 
-Completed hands-on projects involving data analysis, Power BI, Excel, SQL, and business dashboards.
+Completed hands-on work involving **data analysis, Power BI, Excel, SQL, data visualization, and business dashboards**.
 
-🏅 **Python Full Stack Web Development Internship**
+### 💻 Python Full Stack Web Development Internship
 
-Built backend applications using Python, FastAPI, REST APIs, and modern software development practices.
+Gained hands-on experience building applications using **Python, FastAPI, REST APIs, backend development concepts, and modern software development practices**.
 
 ---
 
